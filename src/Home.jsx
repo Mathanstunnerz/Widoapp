@@ -47,7 +47,7 @@ const home = async ()=>{
   };
   return (<div className='Home-container'>
     <div className='home-top-navbar'>
-      <img src="/wido.png" className='nav-logo' />
+      <img src="https://ik.imagekit.io/71sxn3xle/wido__2_.png?updatedAt=1679895225686" className='nav-logo' />
       <input type="text" placeholder='Search' className='search-bar' onChange={searchvalue} onBlur={()=>setsearchval('')} />
       <span className='search-icon'><SearchIcon /></span>
       {serachval.length !== 0 ? <div className='serach-drop-down' >

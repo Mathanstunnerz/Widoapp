@@ -88,7 +88,7 @@ export function Login() {
   })
   return (<div className='Login'>
        <div className="login-logo">
-      <img className="logo-login" src="/Frame 1.png"/>
+      <img className="logo-login" src="https://ik.imagekit.io/71sxn3xle/Frame_1.png?updatedAt=1679897130903"/>
   
        </div>
     {login ?<span>
